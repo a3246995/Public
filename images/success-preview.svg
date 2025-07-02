@@ -1,5 +1,0 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="40" fill="#22c55e" stroke="#16a34a" stroke-width="2"/>
-  <path d="M35 50 L45 60 L65 40" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="50" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#22c55e">成功</text>
-</svg>
