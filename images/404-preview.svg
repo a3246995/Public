@@ -1,0 +1,5 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="80" height="80" fill="#f3f4f6" stroke="#d1d5db" stroke-width="2" rx="8"/>
+  <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#6b7280">404</text>
+  <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#9ca3af">页面未找到</text>
+</svg>
