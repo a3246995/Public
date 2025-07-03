@@ -1,6 +1,24 @@
 {
+  "403": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/403.min.json",
   "email": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/email.min.json",
   "love": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/love.min.json",
   "setting": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/setting.min.json",
-  "message": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/message.min.json"
+  "message": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/message.min.json",
+  "Click": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/Click.min.json",
+  "403_1": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/403_1.min.json",
+  "404_2": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/404_2.min.json",
+  "Erro_1": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/Erro_1.min.json",
+  "Login": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/Login.min.json",
+  "Erro": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/Erro.min.json",
+  "Login_1": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/Login_1.min.json",
+  "Success": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/Success.min.json",
+  "catErro": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/catErro.min.json",
+  "empty": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/empty.min.json",
+  "empty_1": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/empty_1.min.json",
+  "loding_1": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/loding_1.min.json",
+  "loding": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/loding.min.json",
+  "loding_2": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/loding_2.min.json",
+  "loding_3": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/loding_3.min.json",
+  "register": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/register.min.json",
+  "register_1": "https://cdn.jsdelivr.net/gh/a3246995/Public@main/Lottiles/register_1.min.json"
 }
