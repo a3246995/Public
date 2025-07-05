@@ -1,0 +1,12 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8fafc"/>
+  <text x="200" y="120" text-anchor="middle" fill="#f59e0b" font-family="Arial, sans-serif" font-size="48" font-weight="bold">403</text>
+  <g transform="translate(170, 140)">
+    <rect x="0" y="15" width="60" height="45" rx="8" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="2"/>
+    <rect x="25" y="0" width="10" height="20" rx="5" fill="none" stroke="#f59e0b" stroke-width="3"/>
+    <circle cx="30" cy="35" r="8" fill="#f59e0b"/>
+    <rect x="27" y="30" width="6" height="8" rx="1" fill="white"/>
+    <circle cx="30" cy="45" r="2" fill="white"/>
+  </g>
+  <text x="200" y="250" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="14">访问被拒绝</text>
+</svg>

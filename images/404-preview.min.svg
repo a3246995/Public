@@ -1,0 +1,22 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="400" height="300" fill="#f8fafc"/>
+
+  <!-- 404文字 -->
+  <text x="200" y="120" text-anchor="middle" fill="#ef4444" font-family="Arial, sans-serif" font-size="48" font-weight="bold">404</text>
+
+  <!-- 页面图标 -->
+  <g transform="translate(170, 140)">
+    <rect x="0" y="0" width="60" height="80" rx="8" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="2"/>
+    <rect x="8" y="12" width="44" height="4" rx="2" fill="#cbd5e1"/>
+    <rect x="8" y="24" width="32" height="4" rx="2" fill="#cbd5e1"/>
+    <rect x="8" y="36" width="36" height="4" rx="2" fill="#cbd5e1"/>
+
+    <!-- 问号 -->
+    <circle cx="30" cy="55" r="12" fill="#f87171"/>
+    <text x="30" y="62" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">?</text>
+  </g>
+
+  <!-- 文本 -->
+  <text x="200" y="250" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="14">页面未找到</text>
+</svg>

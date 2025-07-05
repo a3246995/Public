@@ -1,0 +1,28 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="400" height="300" fill="#f8fafc"/>
+
+  <!-- 主体图形 -->
+  <g transform="translate(200, 150)">
+    <!-- 旋转圆环 -->
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#e2e8f0" stroke-width="4"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#3b82f6" stroke-width="4"
+            stroke-dasharray="60 200" stroke-linecap="round" transform="rotate(-90)">
+      <animateTransform attributeName="transform" type="rotate"
+                        values="-90;270;-90" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- 中心点 -->
+    <circle cx="0" cy="0" r="8" fill="#3b82f6"/>
+
+    <!-- 装饰点 -->
+    <circle cx="0" cy="-60" r="3" fill="#94a3b8" opacity="0.7"/>
+    <circle cx="42" cy="-42" r="3" fill="#94a3b8" opacity="0.5"/>
+    <circle cx="60" cy="0" r="3" fill="#94a3b8" opacity="0.3"/>
+    <circle cx="42" cy="42" r="3" fill="#94a3b8" opacity="0.5"/>
+    <circle cx="0" cy="60" r="3" fill="#94a3b8" opacity="0.7"/>
+  </g>
+
+  <!-- 文本 -->
+  <text x="200" y="230" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="14">加载中...</text>
+</svg>
